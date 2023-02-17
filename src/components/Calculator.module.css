@@ -1,0 +1,54 @@
+:root {
+  --flex: flex;
+  --center: center;
+  --primary: #fff;
+  --secondary: rgb(252, 134, 64);
+}
+
+.calculator {
+  width: 100%;
+  max-width: 40rem;
+  padding: 5rem 0;
+  margin: 0 auto;
+}
+
+.screen {
+  text-align: right;
+  color: var(--primary);
+  font-size: 2rem;
+  padding: 2.3rem;
+  background-color: rgb(121, 123, 136);
+}
+
+button {
+  cursor: pointer;
+  padding: 1.5rem;
+  font-size: 2rem;
+  outline: none;
+  color: #000;
+  border: 1px solid rgb(208, 208, 208);
+  background-color: rgb(220, 219, 220);
+}
+
+.calculatorButtons {
+  display: var(--flex);
+  flex-wrap: wrap;
+}
+
+.calculatorButtons button {
+  max-width: 25%;
+  flex: 1 25%;
+}
+
+button:nth-child(4n) {
+  background-color: var(--secondary);
+}
+
+button:last-child {
+  background-color: var(--secondary);
+}
+
+.calculatorButtons button:nth-child(17) {
+  max-width: 50%;
+  flex: 1 50%;
+}

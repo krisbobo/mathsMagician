@@ -1,12 +1,5 @@
 <a name="readme-top"></a>
 
-<div align="center">
-
-  <img src="https://raw.githubusercontent.com/krisbobo/readme-template/master/murple_logo.png" alt="logo" width="140"  height="auto" />
-  <br/>
-
-</div>
-
 <!-- TABLE OF CONTENTS -->
 
 # 📗 Table of Contents
@@ -33,7 +26,7 @@
 
 # 📖 [Maths magicians] <a name="about-project"></a>
 
-> Describe project here
+> In this project, I continued with the development of the math magicians app. I developed a React component that with hold the core functionality: a calculator.
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -60,7 +53,7 @@ The major tools and languages used are:
 
 > The web app has the following key features:
 
-- **[]**
+- **[Calculator]**
 - **[]**
 
 <p align="right">[<a href="#readme-top">Back to Top</a>]</p>
@@ -69,7 +62,7 @@ The major tools and languages used are:
 
 ## 🚀 Live Demo and other links <a name="live-demo"></a>
 
-> Here, we will paste links as per the submission instructions.
+> You can find a live demo here:
 
 - [Live Demo Link]()
 
@@ -89,7 +82,7 @@ The major tools and languages used are:
 
 Clone this repository to your desired folder:
 
-> https://github.com/krisbobo/maths-magicians.git
+> https://github.com/krisbobo/mathsMagicians.git
 
 ### Install
 
@@ -127,7 +120,7 @@ To run tests, run the following command:
 
 - GitHub: [krisbobo](https://github.com/krisbobo)
 - Twitter: [ChrisboboSys](https://twitter.com/ChrisboboSys)
-- LinkedIn: [kiyong-christian](https://linkedin.com/in/kiyong-christian)
+- LinkedIn: [kiyong-christian](https://linkedin.com/in/christian-kiyong)
 
 <p align="right">[<a href="#readme-top">Back to Top</a>]</p>
 
@@ -153,7 +146,7 @@ If you like this project, don't forget give a ⭐️ or buy me a coffee ☕️
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-I would like to thank all my collaborators on this project and the Microverse student community.
+I would like to thank the Microverse student community.
 
 <p align="right">[<a href="#readme-top">Back to Top</a>]</p>
 
