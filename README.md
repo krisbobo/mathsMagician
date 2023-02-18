@@ -26,7 +26,7 @@
 
 # 📖 [Maths magicians] <a name="about-project"></a>
 
-> In this project, I continued with the development of the math magicians app. I developed a React component that with hold the core functionality: a calculator.
+> In this project, I continued with the development of the math magicians app. I developed a React component that with hold the core functionality: a calculator. I then added the logic needed to make the Calculator component previously developed to actually work.
 
 ## 🛠 Built With <a name="built-with"></a>
 
