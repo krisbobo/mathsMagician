@@ -2,10 +2,10 @@ import React from 'react';
 import Navbar from './navbar';
 
 const Header = () => (
-  <div className="header">
+  <header className="header">
     <h1>Math Magicians</h1>
     <Navbar />
-  </div>
+  </header>
 );
 
 export default Header;
