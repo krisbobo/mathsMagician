@@ -26,7 +26,7 @@
 
 # 📖 [Maths magicians] <a name="about-project"></a>
 
-> In this project, I continued with the development of the math magicians app. I developed a React component that with hold the core functionality: a calculator. I then added the logic needed to make the Calculator component previously developed to actually work.
+> In this project, I continued with the development of the math magicians app. I developed a React component that with hold the core functionality: a calculator. I then added the logic needed to make the Calculator component previously developed to actually work. Finally, I worked on other pages of the website; the home page, quotes page and calculator page.
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -54,7 +54,8 @@ The major tools and languages used are:
 > The web app has the following key features:
 
 - **[Calculator]**
-- **[]**
+- **[Quotes Page]**
+- **[Home Page]**
 
 <p align="right">[<a href="#readme-top">Back to Top</a>]</p>
 
